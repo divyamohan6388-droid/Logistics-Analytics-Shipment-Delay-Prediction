@@ -55,10 +55,14 @@ logistics-analytics-shipment-delay-prediction/
 │   └── 05_business_recommendations.ipynb
 │
 ├── reports/
+│    ├── weekly reports/
+│       └── Week_1_Logistics_Data_Analysis_Report
+│       └── Week_2_Data_Collection_Cleaning_Preprocessing_Report
+│       └── Week_3_Advanced_Data_Analysis_and_Visualization_Report
+│       └── Week_4_Feature_Engineering_Machine_Learning_Report
 │   ├── figures/
 │   │   ├── confusion_matrices.png
 │   │   └── roc_curve_comparison.png
-│   ├── model_comparison.csv
 │   └── model_evaluation_results.csv
 │
 ├── .gitignore
